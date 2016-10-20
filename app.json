@@ -1,0 +1,16 @@
+{
+  "name": "appzmxfirstheroku",
+  "description": "descip",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
